@@ -20,7 +20,7 @@ public class SourceApplication {
 	@InboundChannelAdapter(value = Source.OUTPUT, poller = @Poller(fixedDelay = "10000", maxMessagesPerPoll = "1"))
 	public MessageSource<String> timeMessageSource() {
 
-		String path="C:\\Users\\pparaska\\Desktop\\scdf.txt";
+		String path="/home/ubuntu/project/demo.txt ";
 		return () -> MessageBuilder.withPayload(path).build();
 		//return () -> MessageBuilder.withPayload(new Date().getTime()).build();
 	}
