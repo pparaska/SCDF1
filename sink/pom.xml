@@ -51,6 +51,4 @@
 		</plugins>
 	</build>
 
-
-	<artifactId>sink</artifactId>
 </project>
