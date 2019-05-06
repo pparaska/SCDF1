@@ -59,7 +59,7 @@
 					<dockerFileDir>src/main/docker</dockerFileDir>
 					<images>
 						<image>
-							<name>${docker.registry}/dockboot:${project.version}</name>
+							<name>${docker.registry}/sourceapp:${project.version}</name>
 							<build>
 								<dockerFileDir>${project.basedir}/src/main/docker</dockerFileDir>
 								<tags>

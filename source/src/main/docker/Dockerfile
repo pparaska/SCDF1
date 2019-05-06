@@ -1,6 +1,6 @@
 FROM javatechy/openjdk-8-slim
 
-MAINTAINER Deepak Kumar <deepak.kumar.iet@gmail.com>
+MAINTAINER Shubham Raut <shuraut19@gmail.com>
 
 ENV ENV_NAME local
 ENV BOOTAPP_JAVA_OPTS -Xms256m -Xmx256m
