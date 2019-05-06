@@ -752,3 +752,28 @@
 2019-05-06 12:36:51,326 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
 2019-05-06 12:36:51,328 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-06 12:36:51,328 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\test\resources
+2019-05-06 13:39:01,630 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:39:01,630 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:39:01,630 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:39:01,634 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:39:01,634 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\test\resources
+2019-05-06 13:40:59,465 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:40:59,465 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:40:59,465 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:40:59,465 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:40:59,465 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\test\resources
+2019-05-06 13:41:12,065 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:41:12,065 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:41:12,065 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:41:12,065 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:41:12,065 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\test\resources
+2019-05-06 13:41:30,455 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:41:30,455 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:41:30,455 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:41:30,455 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:41:30,455 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\test\resources
+2019-05-06 13:42:37,496 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:42:37,496 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:42:37,496 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\main\resources
+2019-05-06 13:42:37,496 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-06 13:42:37,496 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\shuraut\Desktop\docker\SCDF1\source\src\test\resources
