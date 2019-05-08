@@ -23,6 +23,7 @@ public class ProcessorApplication {
 			StringBuffer message = new StringBuffer();
 			while ((currentLine = br.readLine()) != null) {
 				message.append(currentLine);
+				message.append(System.lineSeparator());
 			}
 			return message.toString();
 		}

@@ -16,8 +16,9 @@ public class SinkApplication {
 
 	@StreamListener(Sink.INPUT)
 	public void loggerSink(String data) {
-		logger.info("########## Message Received ##########");
+		logger.info("########## Message Start ##########");
 		logger.info(data);
+		logger.info("########## Message Done  ##########");
 	}
 
 	public static void main(String[] args) {
