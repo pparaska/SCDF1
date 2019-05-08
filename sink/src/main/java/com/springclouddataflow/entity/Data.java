@@ -1,8 +1,7 @@
 package com.springclouddataflow.entity;
 
-import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.annotation.Id;
-@Document
+
 public class Data {
 
 	@Id
