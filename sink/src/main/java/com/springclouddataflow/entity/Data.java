@@ -1,7 +1,8 @@
 package com.springclouddataflow.entity;
 
 import org.springframework.data.annotation.Id;
-
+import org.springframework.data.mongodb.core.mapping.Document;
+@Document
 public class Data {
 
 	@Id
@@ -17,6 +18,13 @@ public class Data {
 	public void setData(String data) {
 		this.data = data;
 	}
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	
 	
 	
 }

@@ -21,12 +21,16 @@ public class SinkApplication {
 	@Autowired
 	SinkRepository repository;
 	
+	static Integer counter=1;
+	
 	@StreamListener(Sink.INPUT)
 	public void loggerSink(String data) {
 		logger.info("########## Message Start ##########");
 		logger.info(data);
 		logger.info("########## Message Done  ##########");
 		Data fileData=new Data();
+		fileData.setId(counter);
+		counter++;
 		fileData.setData(data);
 		repository.save(fileData);
 	}
