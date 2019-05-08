@@ -17,8 +17,7 @@ public class SourceApplication {
 	@Bean
 	@InboundChannelAdapter(value = Source.OUTPUT, poller = @Poller(fixedDelay = "10000", maxMessagesPerPoll = "1"))
 	public MessageSource<String> filePathSource() {
-
-		String path="/home/ubuntu/project/demo.txt ";
+		String path="/root/apps/message.txt";
 		return () -> MessageBuilder.withPayload(path).build();
 
 	}
@@ -26,4 +25,5 @@ public class SourceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SourceApplication.class, args);
 	}
+	
 }
